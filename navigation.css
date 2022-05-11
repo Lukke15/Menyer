@@ -1,4 +1,6 @@
-/* Links inside the navbar */
+body{
+background-color: red;
+}
    .dropdown {
      float: left;
      font-size: 16px;
