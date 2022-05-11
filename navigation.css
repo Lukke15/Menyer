@@ -1,3 +1,29 @@
+  .meny {
+       list-style-type: none;
+       margin: 0;
+       padding: 0;
+       overflow: hidden;
+       background-color: blue;
+       margin-bottom: 100px;
+       margin-left: -9px;
+       margin-top: -9px;
+       margin-right: -9px;
+     }
+     
+   
+     a {
+       display: block;
+       color: rgb(0, 0, 0);
+       text-align: center;
+       padding: 14px 16px;
+       text-decoration: none;
+       float: left;
+     }
+     
+     a:hover {
+       background-color: #111;
+     }
+     
 body{
 background-color: red;
 }
